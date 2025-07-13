@@ -15,6 +15,7 @@ author:
         url: uh.edu/class/political-science/
 date: July 2025
 format: 
+        pdf: default
         revealjs:
                 self-contained: true
                 transition: convex
