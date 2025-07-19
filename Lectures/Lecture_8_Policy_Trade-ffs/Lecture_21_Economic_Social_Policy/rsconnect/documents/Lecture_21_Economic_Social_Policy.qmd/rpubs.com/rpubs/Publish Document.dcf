@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/1297770/4f957f764e0b4ba58d22b7d31d0b5cb7
+bundleId: https://api.rpubs.com/api/v1/document/1297770/4f957f764e0b4ba58d22b7d31d0b5cb7
+url: http://rpubs.com/tomhanna-uh/1297770
+version: 1
